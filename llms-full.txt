@@ -1,0 +1,45 @@
+# Sondajespt — Curicó
+
+> Geotechnical engineering services in Curicó, Chile.
+
+## Services
+- [Aislacion Sismica](https://curico.sondajespt.com/aislacion-sismica/)
+- [Anclajes](https://curico.sondajespt.com/anclajes/)
+- [Calicatas Exploratorias](https://curico.sondajespt.com/calicatas-exploratorias/)
+- [Cbr Vial](https://curico.sondajespt.com/cbr-vial/)
+- [Cimentaciones](https://curico.sondajespt.com/cimentaciones/)
+- [Cimentaciones Superficiales](https://curico.sondajespt.com/cimentaciones-superficiales/)
+- [Densidad Cono Arena](https://curico.sondajespt.com/densidad-cono-arena/)
+- [Ensayo Cpt](https://curico.sondajespt.com/ensayo-cpt/)
+- [Ensayo Triaxial](https://curico.sondajespt.com/ensayo-triaxial/)
+- [Excavaciones Profundas](https://curico.sondajespt.com/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://curico.sondajespt.com/excavaciones-subterraneo/)
+- [Exploracion](https://curico.sondajespt.com/exploracion/)
+- [Geofisica](https://curico.sondajespt.com/geofisica/)
+- [Geotecnia Vial](https://curico.sondajespt.com/geotecnia-vial/)
+- [Grouting](https://curico.sondajespt.com/grouting/)
+- [Laboratorio In Situ](https://curico.sondajespt.com/laboratorio-in-situ/)
+- [Laboratorio Lab](https://curico.sondajespt.com/laboratorio-lab/)
+- [Licuefaccion](https://curico.sondajespt.com/licuefaccion/)
+- [Limites Atterberg](https://curico.sondajespt.com/limites-atterberg/)
+- [Masw Vs30](https://curico.sondajespt.com/masw-vs30/)
+- [Mejoramiento](https://curico.sondajespt.com/mejoramiento/)
+- [Monitoreo Excavaciones](https://curico.sondajespt.com/monitoreo-excavaciones/)
+- [Muros Contencion](https://curico.sondajespt.com/muros-contencion/)
+- [Pavimento Flexible](https://curico.sondajespt.com/pavimento-flexible/)
+- [Permeabilidad Campo](https://curico.sondajespt.com/permeabilidad-campo/)
+- [Pilotes](https://curico.sondajespt.com/pilotes/)
+- [Placa De Carga](https://curico.sondajespt.com/placa-de-carga/)
+- [Resistividad Electrica Sev](https://curico.sondajespt.com/resistividad-electrica-sev/)
+- [Sismica](https://curico.sondajespt.com/sismica/)
+- [Sondaje Spt](https://curico.sondajespt.com/sondaje-spt/)
+- [Taludes](https://curico.sondajespt.com/taludes/)
+- [Tomografia Sismica](https://curico.sondajespt.com/tomografia-sismica/)
+- [Vibrocompactacion](https://curico.sondajespt.com/vibrocompactacion/)
+
+## Contact
+- Website: https://curico.sondajespt.com/
+
+## About
+This site provides geotechnical engineering services in Curicó, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
